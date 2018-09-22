@@ -1,4 +1,3 @@
-# VA-WSC
-Code created while working for the VA Water Science Center
+# USGS NWIS access:
 
-Test
+Pulls water level data from the USGS's NWIS website.
